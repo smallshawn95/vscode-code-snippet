@@ -1,0 +1,14 @@
+{
+    "Hello c": {
+        "prefix": "hello_c",
+        "body": [
+            "#include <stdio.h>",
+            "",
+            "int main()",
+            "{",
+            "    $0",
+            "    return 0;",
+            "}"
+        ]
+    }
+}
