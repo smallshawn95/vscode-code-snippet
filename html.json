@@ -1,0 +1,20 @@
+{
+    "Hello html": {
+        "prefix": "hello_html",
+        "body": [
+            "<!DOCTYPE html>",
+            "",
+            "<html>",
+            "    <head>",
+            "        <meta charset=\"utf8\">",
+            "        <title>$1</title>",
+            "        <link rel=\"stylesheet\" href=\"style.css\">",
+            "    </head>",
+            "    <body>",
+            "        $0",
+            "        <script src=\"main.js\"></script>",
+            "    </body>",
+            "</html>"
+        ]
+    }
+}
